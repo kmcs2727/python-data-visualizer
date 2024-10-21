@@ -1,6 +1,7 @@
 # python-data-visualizer
 ＜matplotlibを使用したグラフ描画＞  
 ・[plot](https://matplotlib.org/stable/plot_types/basic/plot.html#sphx-glr-plot-types-basic-plot-py)  
+・[pcolor](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.pcolor.html)  
 ・[contour](https://matplotlib.org/stable/plot_types/arrays/contour.html#sphx-glr-plot-types-arrays-contour-py)  
 ・[plot_surface](https://matplotlib.org/stable/plot_types/3D/surface3d_simple.html#sphx-glr-plot-types-3d-surface3d-simple-py)
 
